@@ -4,8 +4,8 @@
 - 🙂 I'm brazilian.
 - 🖥️ I'm graduated in Computer Technician(IFMA).
 - 📚 I'm studying in Information Systems(IFMA).
-- 👨🏽‍💻 I’m currently working on building a service registration system.
-- 🔍 I’m currently learning Javascript.
+- 👨🏽‍💻 I’m currently working on building of APIs.
+- 🔍 I’m currently learning React.
 
 ## Profile
 <div>
