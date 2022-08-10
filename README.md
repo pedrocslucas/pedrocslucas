@@ -10,19 +10,19 @@
 ## Profile
 <div>
   <a href="">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrowlucas&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowlucas&layout=compact&langs_count=16&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrocslucas&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocslucas&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 ## Technologies
 <div>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://github.com/pedrowlucas/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://github.com/pedrocslucas/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
   
 ## My Social Networks To Contact
