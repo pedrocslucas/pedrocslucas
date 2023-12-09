@@ -4,7 +4,7 @@
 - 🙂 I'm brazilian.
 - 🖥️ I'm graduated in Computer Technician(IFMA).
 - 📚 I'm studying in Information Systems(IFMA).
-- 👨🏽‍💻 I’m currently working on building of Networks.
+- 👨🏽‍💻 I’m currently working on building of Softwares.
 - 🔍 I’m currently learning ReactJS.
 
 ## Profile
